@@ -1,4 +1,6 @@
 # Proje-2-Telefon-Rehberi-Uygulamas-
+https://www.youtube.com/watch?v=8iIKxBNp6x8
+
 Telefon rehberi uygulaması
 
 <img width="513" height="320" alt="Ekran görüntüsü 2025-08-09 201535" src="https://github.com/user-attachments/assets/546367c0-a835-4403-9a5e-27c06a7b8d2d" />
